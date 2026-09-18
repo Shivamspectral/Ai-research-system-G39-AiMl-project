@@ -1,0 +1,43 @@
+# --- Python / backend ---
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Next.js / frontend ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.pnpm-store/
+frontend/next-env.d.ts
+
+# --- Env / secrets ---
+.env
+.env.local
+.env.*.local
+*/.env
+*/.env.local
+
+# --- DB / alembic ---
+*.sqlite3
+*.db
+
+# --- Logs ---
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example

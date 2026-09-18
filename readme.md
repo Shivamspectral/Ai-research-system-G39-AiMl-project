@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Rajalakshmi Ma'am</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong> kalavathymuthu750@gmail.com</p>
+<p><strong>Trainer Designation:</strong> Data Scientist at Predigle</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 

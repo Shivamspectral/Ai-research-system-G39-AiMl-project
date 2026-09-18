@@ -22,7 +22,7 @@
     <p><strong>Email ID:</strong> shivamkgiramg39aiml@gmail.com </p>
     <p><strong>College Name:</strong> Siddhant College of Engineering, Sudumbare, Pune </p>
     <p><strong>Branch/Specialization :</strong> Computer Engineering (AIML) </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>College ID:</strong> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -107,7 +107,7 @@ independent project ownership, documentation, and delivering a real-world, produ
 </ul>
 
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Shivamspectral/Ai-research-system-G39-AiMl-project/blob/main/SURE%20Trust%20project%20document.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -154,7 +154,9 @@ sense of social responsibility alongside my technical work.
 <!-- change url below with your image urls (inside  src='')-->
 
 <div align="center">
-<!-- Add your community service photos here -->
+<img src="https://github.com/Shivamspectral/Ai-research-system-G39-AiMl-project/blob/main/Asset/35000.jpg?raw=true" width="30%" alt="Community Service Photo 1">
+<img src="https://github.com/Shivamspectral/Ai-research-system-G39-AiMl-project/blob/main/Asset/35003.jpg?raw=true" width="30%" alt="Community Service Photo 2">
+<img src="https://github.com/Shivamspectral/Ai-research-system-G39-AiMl-project/blob/main/Asset/35008.jpg?raw=true" width="30%" alt="Community Service Photo 3">
 </div>
 
 ---
